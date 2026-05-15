@@ -1,0 +1,5182 @@
+[
+  {
+    "word": "ごはん",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "パン",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ラーメン",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "うどん",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "そば",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "カレー",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "寿司",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "おにぎり",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "弁当",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "サンドイッチ",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ハンバーガー",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ピザ",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "パスタ",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "焼きそば",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "たこ焼き",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "お好み焼き",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "唐揚げ",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "とんかつ",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "焼肉",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "牛丼",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "親子丼",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "天ぷら",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "餃子",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "チャーハン",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "オムライス",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ハンバーグ",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ステーキ",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "味噌汁",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "スープ",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "サラダ",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "卵焼き",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "目玉焼き",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "納豆",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "豆腐",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "りんご",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "みかん",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "バナナ",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ぶどう",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "いちご",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "メロン",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "スイカ",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "もも",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "なし",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "レモン",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "トマト",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "きゅうり",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "にんじん",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "じゃがいも",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "玉ねぎ",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "キャベツ",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "レタス",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "だいこん",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "とうもろこし",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "きのこ",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "チーズ",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ヨーグルト",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "アイス",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "チョコレート",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ケーキ",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "プリン",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ドーナツ",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "クッキー",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ポテトチップス",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "せんべい",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "あめ",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ガム",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "コーヒー",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "紅茶",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "緑茶",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "麦茶",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "牛乳",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "水",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ジュース",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "コーラ",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "サイダー",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "お酒",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ビール",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ワイン",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "日本酒",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "焼酎",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "おでん",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "肉まん",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "焼き鳥",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "魚",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "刺身",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "エビ",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "カニ",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ハム",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ソーセージ",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ベーコン",
+    "category": "食べ物・飲み物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "グラタン",
+    "category": "食べ物・飲み物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "ドリア",
+    "category": "食べ物・飲み物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "リゾット",
+    "category": "食べ物・飲み物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "カルボナーラ",
+    "category": "食べ物・飲み物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "ペペロンチーノ",
+    "category": "食べ物・飲み物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "ミートソース",
+    "category": "食べ物・飲み物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "ラザニア",
+    "category": "食べ物・飲み物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "タコス",
+    "category": "食べ物・飲み物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "ナン",
+    "category": "食べ物・飲み物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "キッシュ",
+    "category": "食べ物・飲み物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "ガレット",
+    "category": "食べ物・飲み物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "フォカッチャ",
+    "category": "食べ物・飲み物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "バゲット",
+    "category": "食べ物・飲み物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "クロワッサン",
+    "category": "食べ物・飲み物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "ベーグル",
+    "category": "食べ物・飲み物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "パエリア",
+    "category": "食べ物・飲み物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "ローストビーフ",
+    "category": "食べ物・飲み物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "ビーフシチュー",
+    "category": "食べ物・飲み物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "クラムチャウダー",
+    "category": "食べ物・飲み物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "ポトフ",
+    "category": "食べ物・飲み物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "ミネストローネ",
+    "category": "食べ物・飲み物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "ガパオライス",
+    "category": "食べ物・飲み物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "フォー",
+    "category": "食べ物・飲み物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "トムヤムクン",
+    "category": "食べ物・飲み物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "麻婆豆腐",
+    "category": "食べ物・飲み物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "青椒肉絲",
+    "category": "食べ物・飲み物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "回鍋肉",
+    "category": "食べ物・飲み物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "小籠包",
+    "category": "食べ物・飲み物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "春巻き",
+    "category": "食べ物・飲み物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "ビビンバ",
+    "category": "食べ物・飲み物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "キムチ",
+    "category": "食べ物・飲み物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "チヂミ",
+    "category": "食べ物・飲み物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "カルビ",
+    "category": "食べ物・飲み物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "サムギョプサル",
+    "category": "食べ物・飲み物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "エスプレッソ",
+    "category": "食べ物・飲み物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "カフェラテ",
+    "category": "食べ物・飲み物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "カプチーノ",
+    "category": "食べ物・飲み物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "抹茶",
+    "category": "食べ物・飲み物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "フラッペ",
+    "category": "食べ物・飲み物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "スムージー",
+    "category": "食べ物・飲み物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "マカロン",
+    "category": "食べ物・飲み物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "ティラミス",
+    "category": "食べ物・飲み物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "パンケーキ",
+    "category": "食べ物・飲み物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "ワッフル",
+    "category": "食べ物・飲み物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "モンブラン",
+    "category": "食べ物・飲み物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "フォアグラ",
+    "category": "食べ物・飲み物",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "エスカルゴ",
+    "category": "食べ物・飲み物",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "ビシソワーズ",
+    "category": "食べ物・飲み物",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "ブイヤベース",
+    "category": "食べ物・飲み物",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "ラタトゥイユ",
+    "category": "食べ物・飲み物",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "カプレーゼ",
+    "category": "食べ物・飲み物",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "アヒージョ",
+    "category": "食べ物・飲み物",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "バーニャカウダ",
+    "category": "食べ物・飲み物",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "ガスパチョ",
+    "category": "食べ物・飲み物",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "クスクス",
+    "category": "食べ物・飲み物",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "ファラフェル",
+    "category": "食べ物・飲み物",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "サテ",
+    "category": "食べ物・飲み物",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "ルーローハン",
+    "category": "食べ物・飲み物",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "カヌレ",
+    "category": "食べ物・飲み物",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "ザッハトルテ",
+    "category": "食べ物・飲み物",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "日本",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "アメリカ",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "中国",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "韓国",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "イギリス",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "フランス",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ドイツ",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "イタリア",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "スペイン",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ロシア",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "インド",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "カナダ",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "オーストラリア",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ブラジル",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "メキシコ",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "エジプト",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "タイ",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ベトナム",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "シンガポール",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "東京",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "大阪",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "京都",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "横浜",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "名古屋",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "福岡",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "札幌",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "神戸",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "広島",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "仙台",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "沖縄",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "パリ",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ロンドン",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ニューヨーク",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ロサンゼルス",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ワシントン",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "北京",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "上海",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "香港",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ソウル",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "台北",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "バンコク",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "シドニー",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ローマ",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ミラノ",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ベルリン",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ミュンヘン",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "マドリード",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "バルセロナ",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "アジア",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ヨーロッパ",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "アフリカ",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "南米",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "北米",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "北海道",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "東北",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "関東",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "中部",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "関西",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "九州",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "四国",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "千葉",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "埼玉",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "静岡",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "長野",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "新潟",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "金沢",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "奈良",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ハワイ",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "グアム",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ドバイ",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "トルコ",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ギリシャ",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "オランダ",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "スイス",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "スウェーデン",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ノルウェー",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "フィンランド",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "デンマーク",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ベルギー",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ポルトガル",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "オーストリア",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "アメリカ合衆国",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "イングランド",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "スコットランド",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ウェールズ",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "カリフォルニア",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "フロリダ",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "テキサス",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "シカゴ",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ボストン",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "サンフランシスコ",
+    "category": "国・地域・都市",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "アルゼンチン",
+    "category": "国・地域・都市",
+    "difficulty": "中級"
+  },
+  {
+    "word": "チリ",
+    "category": "国・地域・都市",
+    "difficulty": "中級"
+  },
+  {
+    "word": "ペルー",
+    "category": "国・地域・都市",
+    "difficulty": "中級"
+  },
+  {
+    "word": "コロンビア",
+    "category": "国・地域・都市",
+    "difficulty": "中級"
+  },
+  {
+    "word": "ニュージーランド",
+    "category": "国・地域・都市",
+    "difficulty": "中級"
+  },
+  {
+    "word": "インドネシア",
+    "category": "国・地域・都市",
+    "difficulty": "中級"
+  },
+  {
+    "word": "マレーシア",
+    "category": "国・地域・都市",
+    "difficulty": "中級"
+  },
+  {
+    "word": "フィリピン",
+    "category": "国・地域・都市",
+    "difficulty": "中級"
+  },
+  {
+    "word": "カンボジア",
+    "category": "国・地域・都市",
+    "difficulty": "中級"
+  },
+  {
+    "word": "モンゴル",
+    "category": "国・地域・都市",
+    "difficulty": "中級"
+  },
+  {
+    "word": "ネパール",
+    "category": "国・地域・都市",
+    "difficulty": "中級"
+  },
+  {
+    "word": "サウジアラビア",
+    "category": "国・地域・都市",
+    "difficulty": "中級"
+  },
+  {
+    "word": "イスラエル",
+    "category": "国・地域・都市",
+    "difficulty": "中級"
+  },
+  {
+    "word": "モロッコ",
+    "category": "国・地域・都市",
+    "difficulty": "中級"
+  },
+  {
+    "word": "ケニア",
+    "category": "国・地域・都市",
+    "difficulty": "中級"
+  },
+  {
+    "word": "南アフリカ",
+    "category": "国・地域・都市",
+    "difficulty": "中級"
+  },
+  {
+    "word": "チェコ",
+    "category": "国・地域・都市",
+    "difficulty": "中級"
+  },
+  {
+    "word": "ポーランド",
+    "category": "国・地域・都市",
+    "difficulty": "中級"
+  },
+  {
+    "word": "ハンガリー",
+    "category": "国・地域・都市",
+    "difficulty": "中級"
+  },
+  {
+    "word": "アイルランド",
+    "category": "国・地域・都市",
+    "difficulty": "中級"
+  },
+  {
+    "word": "リスボン",
+    "category": "国・地域・都市",
+    "difficulty": "中級"
+  },
+  {
+    "word": "プラハ",
+    "category": "国・地域・都市",
+    "difficulty": "中級"
+  },
+  {
+    "word": "ウィーン",
+    "category": "国・地域・都市",
+    "difficulty": "中級"
+  },
+  {
+    "word": "ブリュッセル",
+    "category": "国・地域・都市",
+    "difficulty": "中級"
+  },
+  {
+    "word": "コペンハーゲン",
+    "category": "国・地域・都市",
+    "difficulty": "中級"
+  },
+  {
+    "word": "ストックホルム",
+    "category": "国・地域・都市",
+    "difficulty": "中級"
+  },
+  {
+    "word": "ウズベキスタン",
+    "category": "国・地域・都市",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "カザフスタン",
+    "category": "国・地域・都市",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "モンテネグロ",
+    "category": "国・地域・都市",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "スロベニア",
+    "category": "国・地域・都市",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "エストニア",
+    "category": "国・地域・都市",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "ラトビア",
+    "category": "国・地域・都市",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "リトアニア",
+    "category": "国・地域・都市",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "ジョージア",
+    "category": "国・地域・都市",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "アルメニア",
+    "category": "国・地域・都市",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "ブータン",
+    "category": "国・地域・都市",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "ルクセンブルク",
+    "category": "国・地域・都市",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "マルタ",
+    "category": "国・地域・都市",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "アンドラ",
+    "category": "国・地域・都市",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "犬",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "猫",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "うさぎ",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ハムスター",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "リス",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ねずみ",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "牛",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "馬",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "豚",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "羊",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ヤギ",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ライオン",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "トラ",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "チーター",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ヒョウ",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ゾウ",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "キリン",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "サル",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ゴリラ",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "パンダ",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "コアラ",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "カンガルー",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ペンギン",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "イルカ",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "クジラ",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "アザラシ",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ラッコ",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "カバ",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "サイ",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "シマウマ",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "くま",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "狼",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "きつね",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "たぬき",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "鹿",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "イノシシ",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "カメ",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ワニ",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ヘビ",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "トカゲ",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "カエル",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "金魚",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "サメ",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "エイ",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "タコ",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "イカ",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "メダカ",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ザリガニ",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "クラゲ",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "鳥",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ニワトリ",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "アヒル",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "カラス",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "スズメ",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ハト",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "フクロウ",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ワシ",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "タカ",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "インコ",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "オウム",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "昆虫",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "アリ",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ハチ",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "蝶",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "トンボ",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "カブトムシ",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "クワガタ",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "セミ",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "バッタ",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "てんとう虫",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "モルモット",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ラクダ",
+    "category": "動物・生き物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "アルパカ",
+    "category": "動物・生き物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "フラミンゴ",
+    "category": "動物・生き物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "ハリネズミ",
+    "category": "動物・生き物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "フェレット",
+    "category": "動物・生き物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "チンパンジー",
+    "category": "動物・生き物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "オランウータン",
+    "category": "動物・生き物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "マントヒヒ",
+    "category": "動物・生き物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "レッサーパンダ",
+    "category": "動物・生き物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "ミーアキャット",
+    "category": "動物・生き物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "カピバラ",
+    "category": "動物・生き物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "ビーバー",
+    "category": "動物・生き物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "アライグマ",
+    "category": "動物・生き物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "カワウソ",
+    "category": "動物・生き物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "イタチ",
+    "category": "動物・生き物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "モモンガ",
+    "category": "動物・生き物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "ムササビ",
+    "category": "動物・生き物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "ヤマアラシ",
+    "category": "動物・生き物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "マグロ",
+    "category": "動物・生き物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "サーモン",
+    "category": "動物・生き物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "カツオ",
+    "category": "動物・生き物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "タツノオトシゴ",
+    "category": "動物・生き物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "ウツボ",
+    "category": "動物・生き物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "マンボウ",
+    "category": "動物・生き物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "ペリカン",
+    "category": "動物・生き物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "ツル",
+    "category": "動物・生き物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "キジ",
+    "category": "動物・生き物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "クジャク",
+    "category": "動物・生き物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "ヤモリ",
+    "category": "動物・生き物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "イグアナ",
+    "category": "動物・生き物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "サンショウウオ",
+    "category": "動物・生き物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "カマキリ",
+    "category": "動物・生き物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "コオロギ",
+    "category": "動物・生き物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "ゲンゴロウ",
+    "category": "動物・生き物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "ホタル",
+    "category": "動物・生き物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "ダンゴムシ",
+    "category": "動物・生き物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "ヤドカリ",
+    "category": "動物・生き物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "オカピ",
+    "category": "動物・生き物",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "マヌルネコ",
+    "category": "動物・生き物",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "センザンコウ",
+    "category": "動物・生き物",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "カモノハシ",
+    "category": "動物・生き物",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "ナマケモノ",
+    "category": "動物・生き物",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "アイアイ",
+    "category": "動物・生き物",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "ウォンバット",
+    "category": "動物・生き物",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "ハシビロコウ",
+    "category": "動物・生き物",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "ジュゴン",
+    "category": "動物・生き物",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "シーラカンス",
+    "category": "動物・生き物",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "ダイオウグソクムシ",
+    "category": "動物・生き物",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "アホウドリ",
+    "category": "動物・生き物",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "スマホ",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "携帯電話",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "テレビ",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "冷蔵庫",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "洗濯機",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "電子レンジ",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "炊飯器",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "掃除機",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "エアコン",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "扇風機",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ドライヤー",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "時計",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "目覚まし時計",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "電池",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "充電器",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "イヤホン",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ヘッドホン",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "パソコン",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "タブレット",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "リモコン",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "カメラ",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "懐中電灯",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "イス",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "机",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "テーブル",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ソファ",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ベッド",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "布団",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "枕",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "毛布",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "カーテン",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "鏡",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "棚",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "本棚",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "タンス",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ハンガー",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ゴミ箱",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "傘",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "靴",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "かばん",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "財布",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "鍵",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "マスク",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "メガネ",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "帽子",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "タオル",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ハンカチ",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "歯ブラシ",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "歯磨き粉",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "シャンプー",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "リンス",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "石けん",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ボディソープ",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ティッシュ",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "トイレットペーパー",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "洗剤",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "スポンジ",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "バケツ",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ほうき",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ちりとり",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "雑巾",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "コップ",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "皿",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "箸",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "スプーン",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "フォーク",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "包丁",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "まな板",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "鍋",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "フライパン",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "やかん",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "水筒",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "弁当箱",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ラップ",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "アルミホイル",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ノート",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "鉛筆",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "消しゴム",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ペン",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "はさみ",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "のり",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "定規",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "カレンダー",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "新聞",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "本",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "雑誌",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "封筒",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "はがき",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "テープ",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "クリップ",
+    "category": "日用品・生活用品",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ホッチキス",
+    "category": "日用品・生活用品",
+    "difficulty": "中級"
+  },
+  {
+    "word": "電卓",
+    "category": "日用品・生活用品",
+    "difficulty": "中級"
+  },
+  {
+    "word": "三脚",
+    "category": "日用品・生活用品",
+    "difficulty": "中級"
+  },
+  {
+    "word": "双眼鏡",
+    "category": "日用品・生活用品",
+    "difficulty": "中級"
+  },
+  {
+    "word": "望遠鏡",
+    "category": "日用品・生活用品",
+    "difficulty": "中級"
+  },
+  {
+    "word": "加湿器",
+    "category": "日用品・生活用品",
+    "difficulty": "中級"
+  },
+  {
+    "word": "除湿機",
+    "category": "日用品・生活用品",
+    "difficulty": "中級"
+  },
+  {
+    "word": "空気清浄機",
+    "category": "日用品・生活用品",
+    "difficulty": "中級"
+  },
+  {
+    "word": "プリンター",
+    "category": "日用品・生活用品",
+    "difficulty": "中級"
+  },
+  {
+    "word": "スキャナー",
+    "category": "日用品・生活用品",
+    "difficulty": "中級"
+  },
+  {
+    "word": "プロジェクター",
+    "category": "日用品・生活用品",
+    "difficulty": "中級"
+  },
+  {
+    "word": "モバイルバッテリー",
+    "category": "日用品・生活用品",
+    "difficulty": "中級"
+  },
+  {
+    "word": "延長コード",
+    "category": "日用品・生活用品",
+    "difficulty": "中級"
+  },
+  {
+    "word": "電源タップ",
+    "category": "日用品・生活用品",
+    "difficulty": "中級"
+  },
+  {
+    "word": "体重計",
+    "category": "日用品・生活用品",
+    "difficulty": "中級"
+  },
+  {
+    "word": "血圧計",
+    "category": "日用品・生活用品",
+    "difficulty": "中級"
+  },
+  {
+    "word": "アイロン",
+    "category": "日用品・生活用品",
+    "difficulty": "中級"
+  },
+  {
+    "word": "ミキサー",
+    "category": "日用品・生活用品",
+    "difficulty": "中級"
+  },
+  {
+    "word": "トースター",
+    "category": "日用品・生活用品",
+    "difficulty": "中級"
+  },
+  {
+    "word": "コーヒーメーカー",
+    "category": "日用品・生活用品",
+    "difficulty": "中級"
+  },
+  {
+    "word": "ピーラー",
+    "category": "日用品・生活用品",
+    "difficulty": "中級"
+  },
+  {
+    "word": "おたま",
+    "category": "日用品・生活用品",
+    "difficulty": "中級"
+  },
+  {
+    "word": "ざる",
+    "category": "日用品・生活用品",
+    "difficulty": "中級"
+  },
+  {
+    "word": "ボウル",
+    "category": "日用品・生活用品",
+    "difficulty": "中級"
+  },
+  {
+    "word": "計量カップ",
+    "category": "日用品・生活用品",
+    "difficulty": "中級"
+  },
+  {
+    "word": "計量スプーン",
+    "category": "日用品・生活用品",
+    "difficulty": "中級"
+  },
+  {
+    "word": "菜箸",
+    "category": "日用品・生活用品",
+    "difficulty": "中級"
+  },
+  {
+    "word": "しゃもじ",
+    "category": "日用品・生活用品",
+    "difficulty": "中級"
+  },
+  {
+    "word": "缶切り",
+    "category": "日用品・生活用品",
+    "difficulty": "中級"
+  },
+  {
+    "word": "栓抜き",
+    "category": "日用品・生活用品",
+    "difficulty": "中級"
+  },
+  {
+    "word": "爪切り",
+    "category": "日用品・生活用品",
+    "difficulty": "中級"
+  },
+  {
+    "word": "耳かき",
+    "category": "日用品・生活用品",
+    "difficulty": "中級"
+  },
+  {
+    "word": "綿棒",
+    "category": "日用品・生活用品",
+    "difficulty": "中級"
+  },
+  {
+    "word": "化粧水",
+    "category": "日用品・生活用品",
+    "difficulty": "中級"
+  },
+  {
+    "word": "日焼け止め",
+    "category": "日用品・生活用品",
+    "difficulty": "中級"
+  },
+  {
+    "word": "香水",
+    "category": "日用品・生活用品",
+    "difficulty": "中級"
+  },
+  {
+    "word": "折りたたみ傘",
+    "category": "日用品・生活用品",
+    "difficulty": "中級"
+  },
+  {
+    "word": "リュック",
+    "category": "日用品・生活用品",
+    "difficulty": "中級"
+  },
+  {
+    "word": "キャリーケース",
+    "category": "日用品・生活用品",
+    "difficulty": "中級"
+  },
+  {
+    "word": "名刺入れ",
+    "category": "日用品・生活用品",
+    "difficulty": "中級"
+  },
+  {
+    "word": "印鑑",
+    "category": "日用品・生活用品",
+    "difficulty": "中級"
+  },
+  {
+    "word": "朱肉",
+    "category": "日用品・生活用品",
+    "difficulty": "中級"
+  },
+  {
+    "word": "ファイル",
+    "category": "日用品・生活用品",
+    "difficulty": "中級"
+  },
+  {
+    "word": "バインダー",
+    "category": "日用品・生活用品",
+    "difficulty": "中級"
+  },
+  {
+    "word": "付箋",
+    "category": "日用品・生活用品",
+    "difficulty": "中級"
+  },
+  {
+    "word": "六角レンチ",
+    "category": "日用品・生活用品",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "万力",
+    "category": "日用品・生活用品",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "はんだごて",
+    "category": "日用品・生活用品",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "シュレッダー",
+    "category": "日用品・生活用品",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "分度器",
+    "category": "日用品・生活用品",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "コンパス",
+    "category": "日用品・生活用品",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "ノギス",
+    "category": "日用品・生活用品",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "ペンチ",
+    "category": "日用品・生活用品",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "ニッパー",
+    "category": "日用品・生活用品",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "スパナ",
+    "category": "日用品・生活用品",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "モンキーレンチ",
+    "category": "日用品・生活用品",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "ドライバー",
+    "category": "日用品・生活用品",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "トルクレンチ",
+    "category": "日用品・生活用品",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "水準器",
+    "category": "日用品・生活用品",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "巻尺",
+    "category": "日用品・生活用品",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "家",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "学校",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "病院",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "駅",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "公園",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "図書館",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "コンビニ",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "スーパー",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "デパート",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "銀行",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "郵便局",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "交番",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "消防署",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "警察署",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "市役所",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "役所",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "空港",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "港",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "バス停",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "駐車場",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "道路",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "橋",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "トンネル",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "会社",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "工場",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "倉庫",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "店",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "レストラン",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "カフェ",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "映画館",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "遊園地",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "動物園",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "水族館",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "博物館",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "美術館",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "体育館",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "プール",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "神社",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "寺",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "教会",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "城",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ホテル",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "旅館",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "温泉",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "海",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "山",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "川",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "湖",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "森",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "島",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "砂浜",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "庭",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "公民館",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "保育園",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "幼稚園",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "小学校",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "中学校",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "高校",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "大学",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "塾",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "教室",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "職員室",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "トイレ",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "台所",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "玄関",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "屋上",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ベランダ",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "グラウンド",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "校庭",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "広場",
+    "category": "建物・場所",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "競技場",
+    "category": "建物・場所",
+    "difficulty": "中級"
+  },
+  {
+    "word": "スタジアム",
+    "category": "建物・場所",
+    "difficulty": "中級"
+  },
+  {
+    "word": "劇場",
+    "category": "建物・場所",
+    "difficulty": "中級"
+  },
+  {
+    "word": "コンサートホール",
+    "category": "建物・場所",
+    "difficulty": "中級"
+  },
+  {
+    "word": "展望台",
+    "category": "建物・場所",
+    "difficulty": "中級"
+  },
+  {
+    "word": "展示場",
+    "category": "建物・場所",
+    "difficulty": "中級"
+  },
+  {
+    "word": "研究所",
+    "category": "建物・場所",
+    "difficulty": "中級"
+  },
+  {
+    "word": "裁判所",
+    "category": "建物・場所",
+    "difficulty": "中級"
+  },
+  {
+    "word": "大使館",
+    "category": "建物・場所",
+    "difficulty": "中級"
+  },
+  {
+    "word": "診療所",
+    "category": "建物・場所",
+    "difficulty": "中級"
+  },
+  {
+    "word": "薬局",
+    "category": "建物・場所",
+    "difficulty": "中級"
+  },
+  {
+    "word": "市場",
+    "category": "建物・場所",
+    "difficulty": "中級"
+  },
+  {
+    "word": "商店街",
+    "category": "建物・場所",
+    "difficulty": "中級"
+  },
+  {
+    "word": "地下街",
+    "category": "建物・場所",
+    "difficulty": "中級"
+  },
+  {
+    "word": "サービスエリア",
+    "category": "建物・場所",
+    "difficulty": "中級"
+  },
+  {
+    "word": "道の駅",
+    "category": "建物・場所",
+    "difficulty": "中級"
+  },
+  {
+    "word": "キャンプ場",
+    "category": "建物・場所",
+    "difficulty": "中級"
+  },
+  {
+    "word": "スキー場",
+    "category": "建物・場所",
+    "difficulty": "中級"
+  },
+  {
+    "word": "牧場",
+    "category": "建物・場所",
+    "difficulty": "中級"
+  },
+  {
+    "word": "温室",
+    "category": "建物・場所",
+    "difficulty": "中級"
+  },
+  {
+    "word": "神殿",
+    "category": "建物・場所",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "遺跡",
+    "category": "建物・場所",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "要塞",
+    "category": "建物・場所",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "灯台",
+    "category": "建物・場所",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "霊廟",
+    "category": "建物・場所",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "修道院",
+    "category": "建物・場所",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "宮殿",
+    "category": "建物・場所",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "天文台",
+    "category": "建物・場所",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "造船所",
+    "category": "建物・場所",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "地下壕",
+    "category": "建物・場所",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "ドラえもん",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "キャラクター"
+  },
+  {
+    "word": "ピカチュウ",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "キャラクター"
+  },
+  {
+    "word": "マリオ",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "キャラクター"
+  },
+  {
+    "word": "ルイージ",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "キャラクター"
+  },
+  {
+    "word": "ポケモン",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "作品"
+  },
+  {
+    "word": "ワンピース",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "作品"
+  },
+  {
+    "word": "ルフィ",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "キャラクター"
+  },
+  {
+    "word": "ナルト",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "キャラクター"
+  },
+  {
+    "word": "ドラゴンボール",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "作品"
+  },
+  {
+    "word": "孫悟空",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "キャラクター"
+  },
+  {
+    "word": "鬼滅の刃",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "作品"
+  },
+  {
+    "word": "炭治郎",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "キャラクター"
+  },
+  {
+    "word": "アンパンマン",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "キャラクター"
+  },
+  {
+    "word": "サザエさん",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "作品"
+  },
+  {
+    "word": "ちびまる子ちゃん",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "作品"
+  },
+  {
+    "word": "クレヨンしんちゃん",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "作品"
+  },
+  {
+    "word": "名探偵コナン",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "作品"
+  },
+  {
+    "word": "コナン",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "キャラクター"
+  },
+  {
+    "word": "ミッキーマウス",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "キャラクター"
+  },
+  {
+    "word": "ディズニー",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "作品"
+  },
+  {
+    "word": "ジブリ",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "作品"
+  },
+  {
+    "word": "トトロ",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "キャラクター"
+  },
+  {
+    "word": "千と千尋の神隠し",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "作品"
+  },
+  {
+    "word": "ハリーポッター",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "映画"
+  },
+  {
+    "word": "スターウォーズ",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "映画"
+  },
+  {
+    "word": "スパイダーマン",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "映画"
+  },
+  {
+    "word": "バットマン",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "映画"
+  },
+  {
+    "word": "スーパーマン",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "映画"
+  },
+  {
+    "word": "アベンジャーズ",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "映画"
+  },
+  {
+    "word": "マインクラフト",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "ゲーム"
+  },
+  {
+    "word": "スプラトゥーン",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "ゲーム"
+  },
+  {
+    "word": "どうぶつの森",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "ゲーム"
+  },
+  {
+    "word": "ゼルダの伝説",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "ゲーム"
+  },
+  {
+    "word": "桃太郎電鉄",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "ゲーム"
+  },
+  {
+    "word": "ファイナルファンタジー",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "ゲーム"
+  },
+  {
+    "word": "ドラクエ",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "ゲーム"
+  },
+  {
+    "word": "テトリス",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "ゲーム"
+  },
+  {
+    "word": "太鼓の達人",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "ゲーム"
+  },
+  {
+    "word": "映画",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "文化・娯楽一般"
+  },
+  {
+    "word": "アニメ",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "文化・娯楽一般"
+  },
+  {
+    "word": "漫画",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "文化・娯楽一般"
+  },
+  {
+    "word": "ゲーム",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "文化・娯楽一般"
+  },
+  {
+    "word": "音楽",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "文化・娯楽一般"
+  },
+  {
+    "word": "歌",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "文化・娯楽一般"
+  },
+  {
+    "word": "カラオケ",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "文化・娯楽一般"
+  },
+  {
+    "word": "ピアノ",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "文化・娯楽一般"
+  },
+  {
+    "word": "ギター",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "文化・娯楽一般"
+  },
+  {
+    "word": "ドラム",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "文化・娯楽一般"
+  },
+  {
+    "word": "バイオリン",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "文化・娯楽一般"
+  },
+  {
+    "word": "ダンス",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "文化・娯楽一般"
+  },
+  {
+    "word": "演劇",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "文化・娯楽一般"
+  },
+  {
+    "word": "絵画",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "文化・娯楽一般"
+  },
+  {
+    "word": "写真",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "文化・娯楽一般"
+  },
+  {
+    "word": "小説",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "文化・娯楽一般"
+  },
+  {
+    "word": "絵本",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "文化・娯楽一般"
+  },
+  {
+    "word": "落語",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "文化・娯楽一般"
+  },
+  {
+    "word": "歌舞伎",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "文化・娯楽一般"
+  },
+  {
+    "word": "相撲",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "文化・娯楽一般"
+  },
+  {
+    "word": "将棋",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "文化・娯楽一般"
+  },
+  {
+    "word": "囲碁",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "文化・娯楽一般"
+  },
+  {
+    "word": "チェス",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "文化・娯楽一般"
+  },
+  {
+    "word": "トランプ",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "文化・娯楽一般"
+  },
+  {
+    "word": "花火",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "文化・娯楽一般"
+  },
+  {
+    "word": "祭り",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "文化・娯楽一般"
+  },
+  {
+    "word": "クリスマス",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "文化・娯楽一般"
+  },
+  {
+    "word": "ハロウィン",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "文化・娯楽一般"
+  },
+  {
+    "word": "お正月",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "文化・娯楽一般"
+  },
+  {
+    "word": "バレンタイン",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "文化・娯楽一般"
+  },
+  {
+    "word": "ミニオン",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "作品"
+  },
+  {
+    "word": "トムとジェリー",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "作品"
+  },
+  {
+    "word": "キティ",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "作品"
+  },
+  {
+    "word": "マイメロディ",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "作品"
+  },
+  {
+    "word": "ドンキーコング",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "作品"
+  },
+  {
+    "word": "カービィ",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "作品"
+  },
+  {
+    "word": "ヨッシー",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "作品"
+  },
+  {
+    "word": "ソニック",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "ゲーム"
+  },
+  {
+    "word": "シンデレラ",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "作品"
+  },
+  {
+    "word": "白雪姫",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "作品"
+  },
+  {
+    "word": "アナと雪の女王",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "作品"
+  },
+  {
+    "word": "アナ",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "作品"
+  },
+  {
+    "word": "エルサ",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "作品"
+  },
+  {
+    "word": "ポニョ",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "作品"
+  },
+  {
+    "word": "ものまね",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "作品"
+  },
+  {
+    "word": "手品",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "作品"
+  },
+  {
+    "word": "パズル",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "作品"
+  },
+  {
+    "word": "ぬりえ",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "作品"
+  },
+  {
+    "word": "折り紙",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "作品"
+  },
+  {
+    "word": "プリキュア",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "作品"
+  },
+  {
+    "word": "リラックマ",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "作品"
+  },
+  {
+    "word": "スヌーピー",
+    "category": "文化・娯楽",
+    "difficulty": "簡単",
+    "subcategory": "作品"
+  },
+  {
+    "word": "エヴァンゲリオン",
+    "category": "文化・娯楽",
+    "difficulty": "中級",
+    "subcategory": "作品"
+  },
+  {
+    "word": "ガンダム",
+    "category": "文化・娯楽",
+    "difficulty": "中級",
+    "subcategory": "作品"
+  },
+  {
+    "word": "セーラームーン",
+    "category": "文化・娯楽",
+    "difficulty": "中級",
+    "subcategory": "作品"
+  },
+  {
+    "word": "スラムダンク",
+    "category": "文化・娯楽",
+    "difficulty": "中級",
+    "subcategory": "作品"
+  },
+  {
+    "word": "桜木花道",
+    "category": "文化・娯楽",
+    "difficulty": "中級",
+    "subcategory": "キャラクター"
+  },
+  {
+    "word": "進撃の巨人",
+    "category": "文化・娯楽",
+    "difficulty": "中級",
+    "subcategory": "作品"
+  },
+  {
+    "word": "呪術廻戦",
+    "category": "文化・娯楽",
+    "difficulty": "中級",
+    "subcategory": "作品"
+  },
+  {
+    "word": "五条悟",
+    "category": "文化・娯楽",
+    "difficulty": "中級",
+    "subcategory": "キャラクター"
+  },
+  {
+    "word": "スパイファミリー",
+    "category": "文化・娯楽",
+    "difficulty": "中級",
+    "subcategory": "作品"
+  },
+  {
+    "word": "アーニャ",
+    "category": "文化・娯楽",
+    "difficulty": "中級",
+    "subcategory": "キャラクター"
+  },
+  {
+    "word": "ハンターハンター",
+    "category": "文化・娯楽",
+    "difficulty": "中級",
+    "subcategory": "作品"
+  },
+  {
+    "word": "キルア",
+    "category": "文化・娯楽",
+    "difficulty": "中級",
+    "subcategory": "キャラクター"
+  },
+  {
+    "word": "ジョジョの奇妙な冒険",
+    "category": "文化・娯楽",
+    "difficulty": "中級",
+    "subcategory": "作品"
+  },
+  {
+    "word": "ジョジョ",
+    "category": "文化・娯楽",
+    "difficulty": "中級",
+    "subcategory": "作品"
+  },
+  {
+    "word": "鋼の錬金術師",
+    "category": "文化・娯楽",
+    "difficulty": "中級",
+    "subcategory": "作品"
+  },
+  {
+    "word": "るろうに剣心",
+    "category": "文化・娯楽",
+    "difficulty": "中級",
+    "subcategory": "作品"
+  },
+  {
+    "word": "銀魂",
+    "category": "文化・娯楽",
+    "difficulty": "中級",
+    "subcategory": "作品"
+  },
+  {
+    "word": "BLEACH",
+    "category": "文化・娯楽",
+    "difficulty": "中級",
+    "subcategory": "作品"
+  },
+  {
+    "word": "黒子のバスケ",
+    "category": "文化・娯楽",
+    "difficulty": "中級",
+    "subcategory": "作品"
+  },
+  {
+    "word": "ハイキュー",
+    "category": "文化・娯楽",
+    "difficulty": "中級",
+    "subcategory": "作品"
+  },
+  {
+    "word": "ぼっち・ざ・ろっく",
+    "category": "文化・娯楽",
+    "difficulty": "中級",
+    "subcategory": "作品"
+  },
+  {
+    "word": "初音ミク",
+    "category": "文化・娯楽",
+    "difficulty": "中級",
+    "subcategory": "作品"
+  },
+  {
+    "word": "ゴジラ",
+    "category": "文化・娯楽",
+    "difficulty": "中級",
+    "subcategory": "映画"
+  },
+  {
+    "word": "ウルトラマン",
+    "category": "文化・娯楽",
+    "difficulty": "中級",
+    "subcategory": "作品"
+  },
+  {
+    "word": "仮面ライダー",
+    "category": "文化・娯楽",
+    "difficulty": "中級",
+    "subcategory": "作品"
+  },
+  {
+    "word": "スーパー戦隊",
+    "category": "文化・娯楽",
+    "difficulty": "中級",
+    "subcategory": "作品"
+  },
+  {
+    "word": "となりのトトロ",
+    "category": "文化・娯楽",
+    "difficulty": "中級",
+    "subcategory": "作品"
+  },
+  {
+    "word": "魔女の宅急便",
+    "category": "文化・娯楽",
+    "difficulty": "中級",
+    "subcategory": "作品"
+  },
+  {
+    "word": "もののけ姫",
+    "category": "文化・娯楽",
+    "difficulty": "中級",
+    "subcategory": "作品"
+  },
+  {
+    "word": "天空の城ラピュタ",
+    "category": "文化・娯楽",
+    "difficulty": "中級",
+    "subcategory": "作品"
+  },
+  {
+    "word": "ロードオブザリング",
+    "category": "文化・娯楽",
+    "difficulty": "中級",
+    "subcategory": "映画"
+  },
+  {
+    "word": "ジュラシックパーク",
+    "category": "文化・娯楽",
+    "difficulty": "中級",
+    "subcategory": "映画"
+  },
+  {
+    "word": "バックトゥザフューチャー",
+    "category": "文化・娯楽",
+    "difficulty": "中級",
+    "subcategory": "映画"
+  },
+  {
+    "word": "タイタニック",
+    "category": "文化・娯楽",
+    "difficulty": "中級",
+    "subcategory": "映画"
+  },
+  {
+    "word": "ホームアローン",
+    "category": "文化・娯楽",
+    "difficulty": "中級",
+    "subcategory": "映画"
+  },
+  {
+    "word": "ジョーカー",
+    "category": "文化・娯楽",
+    "difficulty": "中級",
+    "subcategory": "映画"
+  },
+  {
+    "word": "インディジョーンズ",
+    "category": "文化・娯楽",
+    "difficulty": "中級",
+    "subcategory": "映画"
+  },
+  {
+    "word": "ロッキー",
+    "category": "文化・娯楽",
+    "difficulty": "中級",
+    "subcategory": "映画"
+  },
+  {
+    "word": "バイオハザード",
+    "category": "文化・娯楽",
+    "difficulty": "中級",
+    "subcategory": "ゲーム"
+  },
+  {
+    "word": "モンスターハンター",
+    "category": "文化・娯楽",
+    "difficulty": "中級",
+    "subcategory": "ゲーム"
+  },
+  {
+    "word": "ペルソナ",
+    "category": "文化・娯楽",
+    "difficulty": "中級",
+    "subcategory": "ゲーム"
+  },
+  {
+    "word": "ストリートファイター",
+    "category": "文化・娯楽",
+    "difficulty": "中級",
+    "subcategory": "ゲーム"
+  },
+  {
+    "word": "スーパーマリオカート",
+    "category": "文化・娯楽",
+    "difficulty": "中級",
+    "subcategory": "ゲーム"
+  },
+  {
+    "word": "星のカービィ",
+    "category": "文化・娯楽",
+    "difficulty": "中級",
+    "subcategory": "ゲーム"
+  },
+  {
+    "word": "メタルギア",
+    "category": "文化・娯楽",
+    "difficulty": "中級",
+    "subcategory": "ゲーム"
+  },
+  {
+    "word": "パックマン",
+    "category": "文化・娯楽",
+    "difficulty": "中級",
+    "subcategory": "ゲーム"
+  },
+  {
+    "word": "ロックマン",
+    "category": "文化・娯楽",
+    "difficulty": "中級",
+    "subcategory": "作品"
+  },
+  {
+    "word": "ボーカロイド",
+    "category": "文化・娯楽",
+    "difficulty": "中級",
+    "subcategory": "作品"
+  },
+  {
+    "word": "クラシック",
+    "category": "文化・娯楽",
+    "difficulty": "中級",
+    "subcategory": "文化・娯楽一般"
+  },
+  {
+    "word": "ジャズ",
+    "category": "文化・娯楽",
+    "difficulty": "中級",
+    "subcategory": "文化・娯楽一般"
+  },
+  {
+    "word": "ロック",
+    "category": "文化・娯楽",
+    "difficulty": "中級",
+    "subcategory": "文化・娯楽一般"
+  },
+  {
+    "word": "ヒップホップ",
+    "category": "文化・娯楽",
+    "difficulty": "中級",
+    "subcategory": "文化・娯楽一般"
+  },
+  {
+    "word": "オーケストラ",
+    "category": "文化・娯楽",
+    "difficulty": "中級",
+    "subcategory": "文化・娯楽一般"
+  },
+  {
+    "word": "ミュージカル",
+    "category": "文化・娯楽",
+    "difficulty": "中級",
+    "subcategory": "文化・娯楽一般"
+  },
+  {
+    "word": "ベルセルク",
+    "category": "文化・娯楽",
+    "difficulty": "難しい",
+    "subcategory": "作品"
+  },
+  {
+    "word": "攻殻機動隊",
+    "category": "文化・娯楽",
+    "difficulty": "難しい",
+    "subcategory": "作品"
+  },
+  {
+    "word": "カウボーイビバップ",
+    "category": "文化・娯楽",
+    "difficulty": "難しい",
+    "subcategory": "作品"
+  },
+  {
+    "word": "AKIRA",
+    "category": "文化・娯楽",
+    "difficulty": "難しい",
+    "subcategory": "作品"
+  },
+  {
+    "word": "デスノート",
+    "category": "文化・娯楽",
+    "difficulty": "難しい",
+    "subcategory": "作品"
+  },
+  {
+    "word": "夜神月",
+    "category": "文化・娯楽",
+    "difficulty": "難しい",
+    "subcategory": "キャラクター"
+  },
+  {
+    "word": "うずまきナルト",
+    "category": "文化・娯楽",
+    "difficulty": "難しい",
+    "subcategory": "キャラクター"
+  },
+  {
+    "word": "ロロノア・ゾロ",
+    "category": "文化・娯楽",
+    "difficulty": "難しい",
+    "subcategory": "キャラクター"
+  },
+  {
+    "word": "サンジ",
+    "category": "文化・娯楽",
+    "difficulty": "難しい",
+    "subcategory": "キャラクター"
+  },
+  {
+    "word": "ジョルノ",
+    "category": "文化・娯楽",
+    "difficulty": "難しい",
+    "subcategory": "キャラクター"
+  },
+  {
+    "word": "ディオ",
+    "category": "文化・娯楽",
+    "difficulty": "難しい",
+    "subcategory": "キャラクター"
+  },
+  {
+    "word": "クラピカ",
+    "category": "文化・娯楽",
+    "difficulty": "難しい",
+    "subcategory": "キャラクター"
+  },
+  {
+    "word": "ヒソカ",
+    "category": "文化・娯楽",
+    "difficulty": "難しい",
+    "subcategory": "キャラクター"
+  },
+  {
+    "word": "リヴァイ",
+    "category": "文化・娯楽",
+    "difficulty": "難しい",
+    "subcategory": "キャラクター"
+  },
+  {
+    "word": "綾波レイ",
+    "category": "文化・娯楽",
+    "difficulty": "難しい",
+    "subcategory": "キャラクター"
+  },
+  {
+    "word": "碇シンジ",
+    "category": "文化・娯楽",
+    "difficulty": "難しい",
+    "subcategory": "キャラクター"
+  },
+  {
+    "word": "シャア・アズナブル",
+    "category": "文化・娯楽",
+    "difficulty": "難しい",
+    "subcategory": "キャラクター"
+  },
+  {
+    "word": "アムロ・レイ",
+    "category": "文化・娯楽",
+    "difficulty": "難しい",
+    "subcategory": "キャラクター"
+  },
+  {
+    "word": "綾瀬千早",
+    "category": "文化・娯楽",
+    "difficulty": "難しい",
+    "subcategory": "キャラクター"
+  },
+  {
+    "word": "犬夜叉",
+    "category": "文化・娯楽",
+    "difficulty": "難しい",
+    "subcategory": "作品"
+  },
+  {
+    "word": "うしおととら",
+    "category": "文化・娯楽",
+    "difficulty": "難しい",
+    "subcategory": "作品"
+  },
+  {
+    "word": "寄生獣",
+    "category": "文化・娯楽",
+    "difficulty": "難しい",
+    "subcategory": "作品"
+  },
+  {
+    "word": "プロメア",
+    "category": "文化・娯楽",
+    "difficulty": "難しい",
+    "subcategory": "映画"
+  },
+  {
+    "word": "シュタインズ・ゲート",
+    "category": "文化・娯楽",
+    "difficulty": "難しい",
+    "subcategory": "作品"
+  },
+  {
+    "word": "ひぐらしのなく頃に",
+    "category": "文化・娯楽",
+    "difficulty": "難しい",
+    "subcategory": "作品"
+  },
+  {
+    "word": "逆転裁判",
+    "category": "文化・娯楽",
+    "difficulty": "難しい",
+    "subcategory": "ゲーム"
+  },
+  {
+    "word": "クロノトリガー",
+    "category": "文化・娯楽",
+    "difficulty": "難しい",
+    "subcategory": "ゲーム"
+  },
+  {
+    "word": "キングダムハーツ",
+    "category": "文化・娯楽",
+    "difficulty": "難しい",
+    "subcategory": "ゲーム"
+  },
+  {
+    "word": "ダークソウル",
+    "category": "文化・娯楽",
+    "difficulty": "難しい",
+    "subcategory": "ゲーム"
+  },
+  {
+    "word": "サイレントヒル",
+    "category": "文化・娯楽",
+    "difficulty": "難しい",
+    "subcategory": "ゲーム"
+  },
+  {
+    "word": "ゴダール",
+    "category": "文化・娯楽",
+    "difficulty": "難しい",
+    "subcategory": "作品"
+  },
+  {
+    "word": "黒澤明",
+    "category": "文化・娯楽",
+    "difficulty": "難しい",
+    "subcategory": "作品"
+  },
+  {
+    "word": "ベートーヴェン",
+    "category": "文化・娯楽",
+    "difficulty": "難しい",
+    "subcategory": "作品"
+  },
+  {
+    "word": "モーツァルト",
+    "category": "文化・娯楽",
+    "difficulty": "難しい",
+    "subcategory": "作品"
+  },
+  {
+    "word": "バンクシー",
+    "category": "文化・娯楽",
+    "difficulty": "難しい",
+    "subcategory": "作品"
+  },
+  {
+    "word": "ピカソ",
+    "category": "文化・娯楽",
+    "difficulty": "難しい",
+    "subcategory": "作品"
+  },
+  {
+    "word": "先生",
+    "category": "職業・人物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "医者",
+    "category": "職業・人物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "看護師",
+    "category": "職業・人物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "警察官",
+    "category": "職業・人物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "消防士",
+    "category": "職業・人物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "料理人",
+    "category": "職業・人物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "店員",
+    "category": "職業・人物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "運転手",
+    "category": "職業・人物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "パイロット",
+    "category": "職業・人物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "駅員",
+    "category": "職業・人物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "美容師",
+    "category": "職業・人物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "俳優",
+    "category": "職業・人物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "歌手",
+    "category": "職業・人物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "芸人",
+    "category": "職業・人物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "漫画家",
+    "category": "職業・人物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "作家",
+    "category": "職業・人物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "画家",
+    "category": "職業・人物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "カメラマン",
+    "category": "職業・人物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "農家",
+    "category": "職業・人物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "漁師",
+    "category": "職業・人物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "大工",
+    "category": "職業・人物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "会社員",
+    "category": "職業・人物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "社長",
+    "category": "職業・人物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "学生",
+    "category": "職業・人物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "王様",
+    "category": "職業・人物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "お姫様",
+    "category": "職業・人物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "忍者",
+    "category": "職業・人物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "侍",
+    "category": "職業・人物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "探偵",
+    "category": "職業・人物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "魔法使い",
+    "category": "職業・人物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ヒーロー",
+    "category": "職業・人物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "悪役",
+    "category": "職業・人物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "サンタクロース",
+    "category": "職業・人物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "お坊さん",
+    "category": "職業・人物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "神主",
+    "category": "職業・人物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "政治家",
+    "category": "職業・人物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "弁護士",
+    "category": "職業・人物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "裁判官",
+    "category": "職業・人物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "野球選手",
+    "category": "職業・人物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "サッカー選手",
+    "category": "職業・人物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "監督",
+    "category": "職業・人物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "コーチ",
+    "category": "職業・人物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "建築家",
+    "category": "職業・人物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "通訳",
+    "category": "職業・人物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "翻訳家",
+    "category": "職業・人物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "編集者",
+    "category": "職業・人物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "記者",
+    "category": "職業・人物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "アナウンサー",
+    "category": "職業・人物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "声優",
+    "category": "職業・人物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "作曲家",
+    "category": "職業・人物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "指揮者",
+    "category": "職業・人物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "研究者",
+    "category": "職業・人物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "科学者",
+    "category": "職業・人物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "宇宙飛行士",
+    "category": "職業・人物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "整備士",
+    "category": "職業・人物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "薬剤師",
+    "category": "職業・人物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "獣医",
+    "category": "職業・人物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "保育士",
+    "category": "職業・人物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "介護士",
+    "category": "職業・人物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "栄養士",
+    "category": "職業・人物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "デザイナー",
+    "category": "職業・人物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "プログラマー",
+    "category": "職業・人物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "配達員",
+    "category": "職業・人物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "考古学者",
+    "category": "職業・人物",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "外交官",
+    "category": "職業・人物",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "調香師",
+    "category": "職業・人物",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "鑑定士",
+    "category": "職業・人物",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "航海士",
+    "category": "職業・人物",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "学芸員",
+    "category": "職業・人物",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "宮大工",
+    "category": "職業・人物",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "雲海",
+    "category": "自然・天気",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "夕日",
+    "category": "自然・天気",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "朝焼け",
+    "category": "自然・天気",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "雨",
+    "category": "自然・天気",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "雪",
+    "category": "自然・天気",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "風",
+    "category": "自然・天気",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "雲",
+    "category": "自然・天気",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "空",
+    "category": "自然・天気",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "太陽",
+    "category": "自然・天気",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "月",
+    "category": "自然・天気",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "星",
+    "category": "自然・天気",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "小川",
+    "category": "自然・天気",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "花",
+    "category": "自然・天気",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "木",
+    "category": "自然・天気",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "波",
+    "category": "自然・天気",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "火山",
+    "category": "自然・天気",
+    "difficulty": "中級"
+  },
+  {
+    "word": "砂漠",
+    "category": "自然・天気",
+    "difficulty": "中級"
+  },
+  {
+    "word": "台風",
+    "category": "自然・天気",
+    "difficulty": "中級"
+  },
+  {
+    "word": "雷",
+    "category": "自然・天気",
+    "difficulty": "中級"
+  },
+  {
+    "word": "虹",
+    "category": "自然・天気",
+    "difficulty": "中級"
+  },
+  {
+    "word": "滝",
+    "category": "自然・天気",
+    "difficulty": "中級"
+  },
+  {
+    "word": "洞窟",
+    "category": "自然・天気",
+    "difficulty": "中級"
+  },
+  {
+    "word": "谷",
+    "category": "自然・天気",
+    "difficulty": "中級"
+  },
+  {
+    "word": "平原",
+    "category": "自然・天気",
+    "difficulty": "中級"
+  },
+  {
+    "word": "草原",
+    "category": "自然・天気",
+    "difficulty": "中級"
+  },
+  {
+    "word": "渓谷",
+    "category": "自然・天気",
+    "difficulty": "中級"
+  },
+  {
+    "word": "沼",
+    "category": "自然・天気",
+    "difficulty": "中級"
+  },
+  {
+    "word": "霧",
+    "category": "自然・天気",
+    "difficulty": "中級"
+  },
+  {
+    "word": "霜",
+    "category": "自然・天気",
+    "difficulty": "中級"
+  },
+  {
+    "word": "夕焼け",
+    "category": "自然・天気",
+    "difficulty": "中級"
+  },
+  {
+    "word": "朝日",
+    "category": "自然・天気",
+    "difficulty": "中級"
+  },
+  {
+    "word": "流れ星",
+    "category": "自然・天気",
+    "difficulty": "中級"
+  },
+  {
+    "word": "地震",
+    "category": "自然・天気",
+    "difficulty": "中級"
+  },
+  {
+    "word": "津波",
+    "category": "自然・天気",
+    "difficulty": "中級"
+  },
+  {
+    "word": "吹雪",
+    "category": "自然・天気",
+    "difficulty": "中級"
+  },
+  {
+    "word": "オーロラ",
+    "category": "自然・天気",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "氷河",
+    "category": "自然・天気",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "珊瑚礁",
+    "category": "自然・天気",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "湿原",
+    "category": "自然・天気",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "流星群",
+    "category": "自然・天気",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "竜巻",
+    "category": "自然・天気",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "入道雲",
+    "category": "自然・天気",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "干潟",
+    "category": "自然・天気",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "鍾乳洞",
+    "category": "自然・天気",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "三日月",
+    "category": "自然・天気",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "皆既日食",
+    "category": "自然・天気",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "蜃気楼",
+    "category": "自然・天気",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "白夜",
+    "category": "自然・天気",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "極夜",
+    "category": "自然・天気",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "モンスーン",
+    "category": "自然・天気",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "車",
+    "category": "乗り物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "自転車",
+    "category": "乗り物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "電車",
+    "category": "乗り物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "バス",
+    "category": "乗り物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "飛行機",
+    "category": "乗り物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "船",
+    "category": "乗り物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "バイク",
+    "category": "乗り物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "タクシー",
+    "category": "乗り物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "トラック",
+    "category": "乗り物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "新幹線",
+    "category": "乗り物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "救急車",
+    "category": "乗り物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "パトカー",
+    "category": "乗り物",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ヘリコプター",
+    "category": "乗り物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "潜水艦",
+    "category": "乗り物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "フェリー",
+    "category": "乗り物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "ヨット",
+    "category": "乗り物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "ロケット",
+    "category": "乗り物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "モノレール",
+    "category": "乗り物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "路面電車",
+    "category": "乗り物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "ブルドーザー",
+    "category": "乗り物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "クレーン車",
+    "category": "乗り物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "消防車",
+    "category": "乗り物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "スクーター",
+    "category": "乗り物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "キックボード",
+    "category": "乗り物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "スケートボード",
+    "category": "乗り物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "リムジン",
+    "category": "乗り物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "気球",
+    "category": "乗り物",
+    "difficulty": "中級"
+  },
+  {
+    "word": "ホバークラフト",
+    "category": "乗り物",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "水上飛行機",
+    "category": "乗り物",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "装甲車",
+    "category": "乗り物",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "サッカー",
+    "category": "スポーツ・遊び",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "野球",
+    "category": "スポーツ・遊び",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "バスケ",
+    "category": "スポーツ・遊び",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "テニス",
+    "category": "スポーツ・遊び",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "バレー",
+    "category": "スポーツ・遊び",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "鬼ごっこ",
+    "category": "スポーツ・遊び",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "かくれんぼ",
+    "category": "スポーツ・遊び",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "しりとり",
+    "category": "スポーツ・遊び",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "なわとび",
+    "category": "スポーツ・遊び",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "ボウリング",
+    "category": "スポーツ・遊び",
+    "difficulty": "簡単"
+  },
+  {
+    "word": "卓球",
+    "category": "スポーツ・遊び",
+    "difficulty": "中級"
+  },
+  {
+    "word": "バドミントン",
+    "category": "スポーツ・遊び",
+    "difficulty": "中級"
+  },
+  {
+    "word": "ラグビー",
+    "category": "スポーツ・遊び",
+    "difficulty": "中級"
+  },
+  {
+    "word": "ゴルフ",
+    "category": "スポーツ・遊び",
+    "difficulty": "中級"
+  },
+  {
+    "word": "オセロ",
+    "category": "スポーツ・遊び",
+    "difficulty": "中級"
+  },
+  {
+    "word": "ドッジボール",
+    "category": "スポーツ・遊び",
+    "difficulty": "中級"
+  },
+  {
+    "word": "フェンシング",
+    "category": "スポーツ・遊び",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "カーリング",
+    "category": "スポーツ・遊び",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "ラクロス",
+    "category": "スポーツ・遊び",
+    "difficulty": "難しい"
+  },
+  {
+    "word": "セパタクロー",
+    "category": "スポーツ・遊び",
+    "difficulty": "難しい"
+  }
+]

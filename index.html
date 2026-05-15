@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <meta name="theme-color" content="#0b73e8">
+    <title>Guess What? | ヒントでお題当て</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <main id="app" class="app-shell">
+      <section id="screen-title" class="screen is-active title-screen" aria-labelledby="app-title">
+        <div class="title-stack">
+          <p class="eyebrow">ヒントでひらめくクイズゲーム</p>
+          <h1 id="app-title">Guess What?</h1>
+          <p class="subtitle">ヒントでお題当て</p>
+        </div>
+        <div class="main-actions">
+          <button class="primary-button" type="button" data-action="answer-mode">回答者モード</button>
+          <button class="primary-button accent" type="button" data-action="hint-mode">ヒント係モード</button>
+          <button class="secondary-button" type="button" data-action="rules">ルール説明</button>
+        </div>
+      </section>
+
+      <section id="screen-answer-mode" class="screen" aria-labelledby="answer-mode-title">
+        <header class="screen-header">
+          <button class="back-button" type="button" data-action="title">戻る</button>
+          <h2 id="answer-mode-title">回答者モード</h2>
+        </header>
+        <div class="mode-grid">
+          <button class="mode-card" type="button" data-action="normal-mode">
+            <span class="mode-title">通常モード</span>
+            <span class="mode-description">1000語データから出題</span>
+          </button>
+          <button class="mode-card" type="button" data-action="custom-mode">
+            <span class="mode-title">カスタムモード</span>
+            <span class="mode-description">自由入力でお題作成</span>
+          </button>
+        </div>
+      </section>
+
+      <section id="screen-normal" class="screen" aria-labelledby="normal-title">
+        <header class="screen-header">
+          <button class="back-button" type="button" data-action="answer-mode">戻る</button>
+          <h2 id="normal-title">通常モード</h2>
+        </header>
+        <form id="normal-form" class="panel-form">
+          <label class="field-label" for="category-select">カテゴリ選択</label>
+          <select id="category-select" name="category">
+            <option value="">全ランダム</option>
+            <option value="食べ物・飲み物">食べ物・飲み物</option>
+            <option value="国・地域・都市">国・地域・都市</option>
+            <option value="動物・生き物">動物・生き物</option>
+            <option value="日用品・生活用品">日用品・生活用品</option>
+            <option value="建物・場所">建物・場所</option>
+            <option value="文化・娯楽">文化・娯楽</option>
+            <option value="職業・人物">職業・人物</option>
+            <option value="自然・天気">自然・天気</option>
+            <option value="乗り物">乗り物</option>
+            <option value="スポーツ・遊び">スポーツ・遊び</option>
+          </select>
+
+          <label class="field-label" for="difficulty-select">難易度選択</label>
+          <select id="difficulty-select" name="difficulty">
+            <option value="">全難易度</option>
+            <option value="簡単">簡単</option>
+            <option value="中級">中級</option>
+            <option value="難しい">難しい</option>
+          </select>
+
+          <p id="data-status" class="status-text" role="status">お題データを読み込み中...</p>
+          <p id="normal-error" class="error-text" role="alert" hidden></p>
+          <button class="primary-button" type="submit">開始</button>
+        </form>
+      </section>
+
+      <section id="screen-custom" class="screen" aria-labelledby="custom-title">
+        <header class="screen-header">
+          <button class="back-button" type="button" data-action="answer-mode">戻る</button>
+          <h2 id="custom-title">カスタムモード</h2>
+        </header>
+        <form id="custom-form" class="panel-form">
+          <label class="field-label" for="custom-word">お題を入力してください</label>
+          <textarea id="custom-word" rows="8" placeholder="例：週末にみんなで行きたい場所"></textarea>
+          <p id="custom-error" class="error-text" role="alert" hidden></p>
+          <button class="primary-button" type="submit">入力完了</button>
+        </form>
+      </section>
+
+      <section id="screen-ready" class="screen guidance-screen" aria-live="polite">
+        <div class="guidance-card">
+          <p>回答者は画面を見ないでください</p>
+          <p>スマホを横向きにして置いてください</p>
+          <div id="countdown" class="countdown" aria-label="カウントダウン">3</div>
+        </div>
+      </section>
+
+      <section id="screen-word" class="screen display-screen" aria-labelledby="word-label">
+        <div class="display-card">
+          <p id="word-label" class="display-label">お題</p>
+          <div id="word-output" class="display-text"></div>
+        </div>
+        <button class="bottom-button" type="button" data-action="title">タイトルへ戻る</button>
+      </section>
+
+      <section id="screen-hint-input" class="screen" aria-labelledby="hint-title">
+        <header class="screen-header">
+          <button class="back-button" type="button" data-action="title">戻る</button>
+          <h2 id="hint-title">ヒント係モード</h2>
+        </header>
+        <form id="hint-form" class="panel-form">
+          <label class="field-label" for="hint-text">ヒントを入力してください</label>
+          <textarea id="hint-text" rows="7"></textarea>
+          <p id="hint-error" class="error-text" role="alert" hidden></p>
+          <button class="primary-button accent" type="submit">入力完了</button>
+        </form>
+      </section>
+
+      <section id="screen-hint-ready" class="screen guidance-screen">
+        <div class="guidance-card">
+          <p>横向きにして他のヒント係と確認してください</p>
+          <button class="primary-button accent" type="button" data-action="show-hint">表示する</button>
+        </div>
+      </section>
+
+      <section id="screen-hint-display" class="screen display-screen" aria-labelledby="hint-label">
+        <div class="display-card">
+          <p id="hint-label" class="display-label">ヒント</p>
+          <div id="hint-output" class="display-text"></div>
+        </div>
+        <button class="bottom-button" type="button" data-action="title">タイトルへ戻る</button>
+      </section>
+
+      <section id="screen-rules" class="screen" aria-labelledby="rules-title">
+        <header class="screen-header">
+          <button class="back-button" type="button" data-action="title">戻る</button>
+          <h2 id="rules-title">ルール説明</h2>
+        </header>
+        <div class="rules-card">
+          <p>① 回答者を1人決めます</p>
+          <p>② 回答者は画面を見ません</p>
+          <p>③ ヒント係はお題を確認し、<br>　それぞれヒントを入力します</p>
+          <p>④ 被ったヒントは使えません</p>
+          <p>⑤ 回答者は残ったヒントで<br>　お題を当てます</p>
+          <p>※ お題そのものは禁止</p>
+        </div>
+        <button class="bottom-button" type="button" data-action="title">タイトルへ戻る</button>
+      </section>
+    </main>
+    <script src="app.js"></script>
+  </body>
+</html>
