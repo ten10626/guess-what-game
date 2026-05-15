@@ -4,7 +4,7 @@
 
 ## 公開URL
 
-GitHub Pages URL: 公開後に追記
+GitHub Pages URL: https://ten10626.github.io/guess-what-game/
 
 ## フォルダ構成
 
