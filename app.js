@@ -1,6 +1,6 @@
 "use strict";
 
-const APPS_SCRIPT_WEB_APP_URL = "https://script.google.com/macros/s/AKfycbya5TEghvrwWLvPrgNiQ6bDWg70Us_h8_6SoDSrsWO6KPsyAajdgqGhQ8rQt0SZOGH_nQ/exec";
+const APPS_SCRIPT_WEB_APP_URL = "";
 
 const screens = document.querySelectorAll(".screen");
 const dataStatus = document.querySelector("#data-status");
