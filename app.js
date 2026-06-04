@@ -1,18 +1,32 @@
 "use strict";
 
+const APPS_SCRIPT_WEB_APP_URL = "";
+
 const screens = document.querySelectorAll(".screen");
 const dataStatus = document.querySelector("#data-status");
 const normalForm = document.querySelector("#normal-form");
 const customForm = document.querySelector("#custom-form");
 const hintForm = document.querySelector("#hint-form");
+const submitWordForm = document.querySelector("#submit-word-form");
 const normalError = document.querySelector("#normal-error");
 const customError = document.querySelector("#custom-error");
 const hintError = document.querySelector("#hint-error");
+const submitError = document.querySelector("#submit-error");
+const submitStatus = document.querySelector("#submit-status");
 const countdown = document.querySelector("#countdown");
 const wordOutput = document.querySelector("#word-output");
 const hintOutput = document.querySelector("#hint-output");
 const customWord = document.querySelector("#custom-word");
 const hintText = document.querySelector("#hint-text");
+const submitWordText = document.querySelector("#submit-word-text");
+const submitCategory = document.querySelector("#submit-category");
+const submitDifficulty = document.querySelector("#submit-difficulty");
+const submitMemo = document.querySelector("#submit-memo");
+const deleteWordText = document.querySelector("#delete-word-text");
+const deleteReason = document.querySelector("#delete-reason");
+const addFields = document.querySelector("#add-fields");
+const deleteFields = document.querySelector("#delete-fields");
+const submitWordButton = document.querySelector("#submit-word-button");
 const categorySelect = document.querySelector("#category-select");
 const difficultySelect = document.querySelector("#difficulty-select");
 
@@ -38,7 +52,7 @@ function showScreen(screenId) {
 }
 
 function clearErrors() {
-  [normalError, customError, hintError].forEach((element) => {
+  [normalError, customError, hintError, submitError].forEach((element) => {
     element.hidden = true;
     element.textContent = "";
   });
@@ -47,6 +61,49 @@ function clearErrors() {
 function setError(element, message) {
   element.textContent = message;
   element.hidden = false;
+}
+
+function resetSubmissionForm() {
+  submitWordForm.reset();
+  addFields.hidden = false;
+  deleteFields.hidden = true;
+  submitStatus.textContent = "";
+  submitWordButton.disabled = false;
+  submitWordButton.textContent = "投稿する";
+}
+
+function updateSubmissionFields() {
+  const type = new FormData(submitWordForm).get("submission-type");
+  addFields.hidden = type !== "add";
+  deleteFields.hidden = type !== "delete";
+  submitStatus.textContent = "";
+  clearErrors();
+}
+
+function buildSubmissionPayload() {
+  const type = new FormData(submitWordForm).get("submission-type");
+
+  if (type === "add") {
+    return {
+      type: "add",
+      word: submitWordText.value.trim(),
+      category: submitCategory.value,
+      difficulty: submitDifficulty.value,
+      reason: "",
+      memo: submitMemo.value.trim(),
+      userAgent: navigator.userAgent
+    };
+  }
+
+  return {
+    type: "delete",
+    word: deleteWordText.value.trim(),
+    category: "",
+    difficulty: "",
+    reason: deleteReason.value.trim(),
+    memo: "",
+    userAgent: navigator.userAgent
+  };
 }
 
 async function loadWords() {
@@ -121,6 +178,7 @@ document.addEventListener("click", (event) => {
     countdownTimer = null;
     customWord.value = "";
     hintText.value = "";
+    resetSubmissionForm();
     showScreen("screen-title");
   }
 
@@ -140,6 +198,11 @@ document.addEventListener("click", (event) => {
   if (action === "hint-mode") {
     showScreen("screen-hint-input");
     hintText.focus();
+  }
+
+  if (action === "submit-word") {
+    showScreen("screen-submit-word");
+    submitWordText.focus();
   }
 
   if (action === "rules") {
@@ -189,6 +252,52 @@ hintForm.addEventListener("submit", (event) => {
 
   hintOutput.textContent = text;
   showScreen("screen-hint-ready");
+});
+
+submitWordForm.addEventListener("change", (event) => {
+  if (event.target.name === "submission-type") {
+    updateSubmissionFields();
+  }
+});
+
+submitWordForm.addEventListener("submit", async (event) => {
+  event.preventDefault();
+  clearErrors();
+  submitStatus.textContent = "";
+
+  const payload = buildSubmissionPayload();
+  if (!payload.word) {
+    setError(submitError, payload.type === "add" ? "お題を入力してください。" : "削除候補の単語を入力してください。");
+    return;
+  }
+
+  if (!APPS_SCRIPT_WEB_APP_URL) {
+    setError(submitError, "Apps ScriptのWebアプリURLが未設定です。app.jsのAPPS_SCRIPT_WEB_APP_URLを設定してください。");
+    return;
+  }
+
+  submitWordButton.disabled = true;
+  submitWordButton.textContent = "投稿中...";
+
+  try {
+    await fetch(APPS_SCRIPT_WEB_APP_URL, {
+      method: "POST",
+      mode: "no-cors",
+      headers: {
+        "Content-Type": "text/plain;charset=utf-8"
+      },
+      body: JSON.stringify(payload)
+    });
+
+    submitWordForm.reset();
+    updateSubmissionFields();
+    submitStatus.textContent = "投稿を送信しました。ありがとうございます。";
+  } catch (error) {
+    setError(submitError, "投稿に失敗しました。通信状態を確認して、もう一度お試しください。");
+  } finally {
+    submitWordButton.disabled = false;
+    submitWordButton.textContent = "投稿する";
+  }
 });
 
 loadWords();

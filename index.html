@@ -19,6 +19,7 @@
         <div class="main-actions">
           <button class="primary-button" type="button" data-action="answer-mode">回答者モード</button>
           <button class="primary-button accent" type="button" data-action="hint-mode">ヒント係モード</button>
+          <button class="primary-button light" type="button" data-action="submit-word">お題投稿</button>
           <button class="secondary-button" type="button" data-action="rules">ルール説明</button>
         </div>
       </section>
@@ -130,6 +131,67 @@
           <div id="hint-output" class="display-text"></div>
         </div>
         <button class="bottom-button" type="button" data-action="title">タイトルへ戻る</button>
+      </section>
+
+      <section id="screen-submit-word" class="screen" aria-labelledby="submit-word-title">
+        <header class="screen-header">
+          <button class="back-button" type="button" data-action="title">戻る</button>
+          <h2 id="submit-word-title">お題投稿</h2>
+        </header>
+        <form id="submit-word-form" class="panel-form">
+          <fieldset class="type-switch">
+            <legend class="field-label">投稿タイプ選択</legend>
+            <label class="type-option">
+              <input type="radio" name="submission-type" value="add" checked>
+              <span>お題候補</span>
+            </label>
+            <label class="type-option">
+              <input type="radio" name="submission-type" value="delete">
+              <span>削除候補</span>
+            </label>
+          </fieldset>
+
+          <div id="add-fields" class="conditional-fields">
+            <label class="field-label" for="submit-word-text">お題</label>
+            <input id="submit-word-text" name="word" type="text" autocomplete="off">
+
+            <label class="field-label" for="submit-category">カテゴリ</label>
+            <select id="submit-category" name="category">
+              <option value="食べ物・飲み物">食べ物・飲み物</option>
+              <option value="国・地域・都市">国・地域・都市</option>
+              <option value="動物・生き物">動物・生き物</option>
+              <option value="日用品・生活用品">日用品・生活用品</option>
+              <option value="建物・場所">建物・場所</option>
+              <option value="文化・娯楽">文化・娯楽</option>
+              <option value="職業・人物">職業・人物</option>
+              <option value="自然・天気">自然・天気</option>
+              <option value="乗り物">乗り物</option>
+              <option value="スポーツ・遊び">スポーツ・遊び</option>
+            </select>
+
+            <label class="field-label" for="submit-difficulty">難易度</label>
+            <select id="submit-difficulty" name="difficulty">
+              <option value="簡単">簡単</option>
+              <option value="中級">中級</option>
+              <option value="難しい">難しい</option>
+            </select>
+
+            <label class="field-label" for="submit-memo">メモ 任意</label>
+            <textarea id="submit-memo" name="memo" rows="4"></textarea>
+          </div>
+
+          <div id="delete-fields" class="conditional-fields" hidden>
+            <label class="field-label" for="delete-word-text">削除候補の単語</label>
+            <input id="delete-word-text" name="delete-word" type="text" autocomplete="off">
+
+            <label class="field-label" for="delete-reason">理由 任意</label>
+            <textarea id="delete-reason" name="reason" rows="4"></textarea>
+          </div>
+
+          <p id="submit-status" class="status-text" role="status"></p>
+          <p id="submit-error" class="error-text" role="alert" hidden></p>
+          <button id="submit-word-button" class="primary-button light" type="submit">投稿する</button>
+        </form>
       </section>
 
       <section id="screen-rules" class="screen" aria-labelledby="rules-title">

@@ -14,7 +14,9 @@ guess-what-game/
 ├── style.css
 ├── app.js
 ├── boardgame_words_1000.json
+├── Code.gs
 ├── README.md
+├── robots.txt
 └── .nojekyll
 ```
 
@@ -38,6 +40,17 @@ GitHub Pagesに公開すると、ブラウザでURLを開くだけで遊べま�
 - 通常モード: `boardgame_words_1000.json` からカテゴリと難易度でお題を抽選
 - カスタムモード: 自由入力したお題を表示
 - ヒント係モード: 入力したヒントを大きく表示
+- お題投稿: お題候補と削除候補をApps Script Webアプリへ送信
 - 3秒カウントダウン
 - 横向き案内
 - スマホ向けレスポンシブUI
+
+## お題投稿の設定
+
+`Code.gs` をGoogle Apps Scriptに貼り付け、Webアプリとしてデプロイしてください。デプロイ後に発行されたWebアプリURLを `app.js` の `APPS_SCRIPT_WEB_APP_URL` に設定すると、投稿フォームから以下の列でスプレッドシートに追記できます。
+
+```text
+timestamp, type, word, category, difficulty, reason, memo, userAgent
+```
+
+WebアプリURLが未設定の場合、投稿画面は表示されますが送信時に設定案内を表示します。

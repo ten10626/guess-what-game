@@ -32,6 +32,7 @@ body {
 }
 
 button,
+input,
 select,
 textarea {
   font: inherit;
@@ -135,6 +136,12 @@ h1 {
   box-shadow: 0 12px 0 var(--yellow-dark), var(--shadow);
 }
 
+.primary-button.light {
+  color: var(--blue-950);
+  background: linear-gradient(180deg, #f4fbff, #bfe7ff);
+  box-shadow: 0 12px 0 #72bdec, var(--shadow);
+}
+
 .secondary-button,
 .bottom-button,
 .back-button {
@@ -211,6 +218,7 @@ h1 {
   font-weight: 900;
 }
 
+input,
 select,
 textarea {
   width: 100%;
@@ -221,6 +229,7 @@ textarea {
   font-size: 1.05rem;
 }
 
+input,
 select {
   min-height: 56px;
   padding: 0 14px;
@@ -233,6 +242,7 @@ textarea {
   line-height: 1.55;
 }
 
+input:focus,
 select:focus,
 textarea:focus,
 button:focus-visible {
@@ -249,6 +259,53 @@ button:focus-visible {
 .error-text {
   color: var(--danger);
   font-weight: 850;
+}
+
+.type-switch {
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+  border: 0;
+}
+
+.type-switch .field-label {
+  grid-column: 1 / -1;
+  padding: 0;
+}
+
+.type-option {
+  min-height: 54px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  border: 3px solid #b7d9ff;
+  border-radius: 18px;
+  color: var(--blue-950);
+  background: #f8fbff;
+  font-weight: 900;
+}
+
+.type-option:has(input:checked) {
+  border-color: var(--yellow-dark);
+  background: var(--yellow);
+}
+
+.type-option input {
+  width: 18px;
+  min-height: 18px;
+  accent-color: var(--blue-650);
+}
+
+.conditional-fields {
+  display: grid;
+  gap: 14px;
+}
+
+.conditional-fields[hidden] {
+  display: none;
 }
 
 .guidance-screen {
